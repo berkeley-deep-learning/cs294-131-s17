@@ -34,9 +34,9 @@
 </div>
 
 ## Lectures
-*Time*: Monday 1--2:30 pm
+**Time**: Monday 1--2:30 pm
 
-*Location*: 306 Soda
+**Location**: 306 Soda
 
 ## Mailing list
 To get announcements about information about the class including guest speakers, and more generally, deep learning talks at Berkeley, please sign up for the [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-deep-learning) for future announcements.
@@ -60,7 +60,7 @@ This is a lecture, discussion, and project oriented class. Each lecture will foc
 Students will also form project groups (two to three people per group) and complete a research-quality class project.
 
 ## Enrollment information
-Please note that this is a graduate-level class. However, with instructors' permission, we do allow qualified undergraduate students to be in the class. If you are an undergraduate student and would like to enroll in the class, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeqTsnv5sBSr6JPGt8RZPfUbRS73cfZBXMZiaC59xNyk1V29Q/viewform) and come to the first lecture of the class. Qualified undergraduates will be given instructor codes to be allowed to register for the class after the first lecture of the class, subject to space availability.
+**For undergraduates**: Please note that this is a graduate-level class. However, with instructors' permission, we do allow qualified undergraduate students to be in the class. If you are an undergraduate student and would like to enroll in the class, please fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSeqTsnv5sBSr6JPGt8RZPfUbRS73cfZBXMZiaC59xNyk1V29Q/viewform)** and come to the first lecture of the class. Qualified undergraduates will be given instructor codes to be allowed to register for the class after the first lecture of the class, subject to space availability.
 
 Students may enroll in this class for variable units.
 
