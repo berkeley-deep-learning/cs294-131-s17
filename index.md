@@ -81,7 +81,7 @@ Students may enroll in this class for variable units.
     * Summarize the poll to generate a ranked & categorized discussion question list and send the list to teaching staff by Sunday 7pm
 
 * Project deadlines:
-  * March 13: project proposal due
+  * February 13: project proposal due
   * March 13: first project milestone report due
   * April 10: second project milestone report due
   * May 1: poster session
