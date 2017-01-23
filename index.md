@@ -54,16 +54,16 @@ Date | Speaker
 1/30 | Richard Socher
 2/6 | Rahul Sukthankar
 2/13 | Brian Catanzaro
-2/20 | No class (President's Day)
+2/20 | *No class (President's Day)*
 2/27 | Aaron Hertzman
 3/6 | Kate Saenko
 3/13 | Diedrik Kingma
 3/20 | Jianxiong Xiao
-3/27 | No class (spring break)
+3/27 | *No class (spring break)*
 4/3 | Caroline Pantofaru
-4/10 | TBA
+4/10 | *TBA*
 4/17 | Bryan Russell
-4/24 | TBA
+4/24 | *TBA*
 
 ## Course description
 In recent years, deep learning has enabled huge progress in many domains including computer vision, speech, NLP, and robotics. It has become the leading solution for many tasks, from winning the ImageNet competition to winning at Go against a world champion. This class is designed to help students develop a deeper understanding of deep learning and explore new research directions and applications of deep learning. It assumes that students already have a basic understanding of deep learning. In particular, we will explore a selected list of new, cutting-edge topics in deep learning, including new techniques and architectures in deep learning, security and privacy issues in deep learning, recent advances in the theoretical and systems aspects of deep learning, and new application domains of deep learning such as autonomous driving.
