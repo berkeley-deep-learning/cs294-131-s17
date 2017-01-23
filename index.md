@@ -38,8 +38,13 @@
 
 **Location**: 306 Soda
 
-## Mailing list
+## Office hours
+Richard: 3-4 PM on Tuesdays in 651 Soda.
+
+## Mailing list and Piazza
 To get announcements about information about the class including guest speakers, and more generally, deep learning talks at Berkeley, please sign up for the [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-deep-learning) for future announcements.
+
+For students enrolled in the class, please join the [Piazza](https://piazza.com/class/iy4vlqa9jqy6aw) and the [student Google Group](https://groups.google.com/forum/#!forum/cs294-131-s17-students).
 
 ## Syllabus
 
@@ -64,9 +69,9 @@ Students will also form project groups (two to three people per group) and compl
 
 Students may enroll in this class for variable units.
 
-* 1 unit: Participate in reading assignments (including serving as discussion lead) OR complete the project requirements
-* 2 units: Both reading assignments and project
-* 3 units: Both reading assignments and a larger project. Talk with staff for permission first.
+* 1 unit: Participate in reading assignments (including serving as discussion lead).
+* 2 units: Complete a project.
+* 3 units: Both reading assignments and a project.
 
 [Listing in the Berkeley Academic Guide](http://classes.berkeley.edu/content/2017-spring-compsci-294-131-lec-131). Class # is 34001.
 
