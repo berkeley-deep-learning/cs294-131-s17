@@ -48,22 +48,79 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
 
 ## Syllabus
 
-Date | Speaker
----- | -------
-1/23 | Devi Parikh
-1/30 | Richard Socher
-2/6 | Rahul Sukthankar
-2/13 | Brian Catanzaro
-2/20 | *No class (President's Day)*
-2/27 | Aaron Hertzman
-3/6 | Kate Saenko
-3/13 | Diedrik Kingma
-3/20 | Jianxiong Xiao
-3/27 | *No class (spring break)*
-4/3 | Caroline Pantofaru
-4/10 | *TBA*
-4/17 | Bryan Russell
-4/24 | *TBA*
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Speaker</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1/23</td>
+      <td>Devi Parikh</td>
+    </tr>
+    <tr>
+      <td>1/30</td>
+      <td>
+        <p>Richard Socher</p>
+        <p>Readings:</p>
+        <ul>
+          <li><a href="https://arxiv.org/abs/1611.01604">Dynamic Coattention Networks For Question Answering</a>, by Caiming Xiong, Victor Zhong, and Richard Socher</li>
+          <li><a href="https://arxiv.org/abs/1611.01587">A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks</a>, by Kazuma Hashimoto, Caiming Xiong, Yoshimasa Tsuruoka, and Richard Socher</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2/6</td>
+      <td>Rahul Sukthankar</td>
+    </tr>
+    <tr>
+      <td>2/13</td>
+      <td>Brian Catanzaro</td>
+    </tr>
+    <tr>
+      <td>2/20</td>
+      <td><em>No class (President’s Day)</em></td>
+    </tr>
+    <tr>
+      <td>2/27</td>
+      <td>Aaron Hertzman</td>
+    </tr>
+    <tr>
+      <td>3/6</td>
+      <td>Kate Saenko</td>
+    </tr>
+    <tr>
+      <td>3/13</td>
+      <td>Diedrik Kingma</td>
+    </tr>
+    <tr>
+      <td>3/20</td>
+      <td>Jianxiong Xiao</td>
+    </tr>
+    <tr>
+      <td>3/27</td>
+      <td><em>No class (spring break)</em></td>
+    </tr>
+    <tr>
+      <td>4/3</td>
+      <td>Caroline Pantofaru</td>
+    </tr>
+    <tr>
+      <td>4/10</td>
+      <td><em>TBA</em></td>
+    </tr>
+    <tr>
+      <td>4/17</td>
+      <td>Bryan Russell</td>
+    </tr>
+    <tr>
+      <td>4/24</td>
+      <td><em>TBA</em></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Course description
 In recent years, deep learning has enabled huge progress in many domains including computer vision, speech, NLP, and robotics. It has become the leading solution for many tasks, from winning the ImageNet competition to winning at Go against a world champion. This class is designed to help students develop a deeper understanding of deep learning and explore new research directions and applications of deep learning. It assumes that students already have a basic understanding of deep learning. In particular, we will explore a selected list of new, cutting-edge topics in deep learning, including new techniques and architectures in deep learning, security and privacy issues in deep learning, recent advances in the theoretical and systems aspects of deep learning, and new application domains of deep learning such as autonomous driving.
