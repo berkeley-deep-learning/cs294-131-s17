@@ -133,6 +133,9 @@ This is a lecture, discussion, and project oriented class. Each lecture will foc
 
 Students will also form project groups (two to three people per group) and complete a research-quality class project.
 
+Please also refer to the [course overview slides](https://docs.google.com/presentation/d/1rI8Bk4T966Ti_KrxsC9C7P3SJyi8EcWA1XG9yi_peZs/pub?slide=id.g1c222e6ff1_0_0)
+from the first lecture for more information.
+
 ## Enrollment information
 **For undergraduates**: Please note that this is a graduate-level class. However, with instructors' permission, we do allow qualified undergraduate students to be in the class. If you are an undergraduate student and would like to enroll in the class, please fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSeqTsnv5sBSr6JPGt8RZPfUbRS73cfZBXMZiaC59xNyk1V29Q/viewform)** and come to the first lecture of the class. Qualified undergraduates will be given instructor codes to be allowed to register for the class after the first lecture of the class, subject to space availability.
 
