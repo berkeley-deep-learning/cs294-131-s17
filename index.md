@@ -58,7 +58,10 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
   <tbody>
     <tr>
       <td>1/23</td>
-      <td>Devi Parikh</td>
+      <td>
+        <p>Devi Parikh</p>
+        <p><a href="slides/Parikh_VQA.pptx">Slides</a></p>
+      </td>
     </tr>
     <tr>
       <td>1/30</td>
