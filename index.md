@@ -165,3 +165,5 @@ Students may enroll in this class for variable units.
   * 15% individual reading assignments
 * 55% project
 
+## Additional Notes
+* For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You'll get 100 dollar's worth of sign up credit. Here's the <a href="https://aws.amazon.com/education/awseducate/apply/">link<\a>. 
