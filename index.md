@@ -112,15 +112,15 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     </tr>
     <tr>
       <td>4/10</td>
-      <td><em>TBA</em></td>
+      <td><em>Alexander Rush</em></td>
     </tr>
     <tr>
       <td>4/17</td>
-      <td>Bryan Russell</td>
+      <td><em>TBA</em></td>
     </tr>
     <tr>
       <td>4/24</td>
-      <td><em>TBA</em></td>
+      <td>Bryan Russell</td>
     </tr>
   </tbody>
 </table>
