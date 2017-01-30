@@ -48,79 +48,125 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
 
 ## Syllabus
 
-<table>
+<table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th>Date</th>
-      <th>Speaker</th>
+      <th style="width: 5%;">Date</th>
+      <th style="width: 17%;">Speaker</th>
+      <th style="width: 50%;">Readings</th>
+      <th style="width: 20%;">Talk</th>
+      <th style="width: 8%;">Deadlines</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1/23</td>
-      <td>
-        <p>Devi Parikh</p>
-        <p><a href="slides/Parikh_VQA.pptx">Slides</a></p>
-      </td>
+      <td>Devi Parikh</td>
+      <td>No assigned readings for this lecture</td>
+      <td><a href="speakers.html#devi-parikh-visual-question-answering-vqa">Visual Question Answering (VQA)</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1/30</td>
+      <td>Richard Socher</td>
       <td>
-        <p>Richard Socher</p>
-        <p>Readings:</p>
         <ul>
           <li><a href="https://arxiv.org/abs/1611.01604">Dynamic Coattention Networks For Question Answering</a>, by Caiming Xiong, Victor Zhong, and Richard Socher</li>
           <li><a href="https://arxiv.org/abs/1611.01587">A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks</a>, by Kazuma Hashimoto, Caiming Xiong, Yoshimasa Tsuruoka, and Richard Socher</li>
         </ul>
       </td>
+      <td>
+        <a href="speakers.html#richard-socher-tackling-the-limits-of-deep-learning-for-nlp">
+          Tackling the Limits of Deep Learning for NLP
+        </a>
+      </td>
+      <td></td>
     </tr>
     <tr>
       <td>2/6</td>
       <td>Rahul Sukthankar</td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td></td>
     </tr>
     <tr>
       <td>2/13</td>
       <td>Brian Catanzaro</td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td>Propject proposal</td>
     </tr>
     <tr>
       <td>2/20</td>
-      <td><em>No class (President’s Day)</em></td>
+      <td colspan="4"><em>No class (President’s Day)</em></td>
     </tr>
     <tr>
       <td>2/27</td>
       <td>Aaron Hertzman</td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td></td>
     </tr>
     <tr>
       <td>3/6</td>
       <td>Kate Saenko</td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td></td>
     </tr>
     <tr>
       <td>3/13</td>
       <td>Diedrik Kingma</td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td>1st project milestone</td>
     </tr>
     <tr>
       <td>3/20</td>
       <td>Jianxiong Xiao</td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td></td>
     </tr>
     <tr>
       <td>3/27</td>
-      <td><em>No class (spring break)</em></td>
+      <td colspan="4"><em>No class (spring break)</em></td>
     </tr>
     <tr>
       <td>4/3</td>
       <td>Caroline Pantofaru</td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td></td>
     </tr>
     <tr>
       <td>4/10</td>
-      <td><em>Alexander Rush</em></td>
+      <td>Alexander Rush</td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td>2nd project milestone</td>
     </tr>
     <tr>
       <td>4/17</td>
       <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td></td>
     </tr>
     <tr>
       <td>4/24</td>
       <td>Bryan Russell</td>
+      <td><em>TBA</em></td>
+      <td><em>TBA</em></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5/1</td>
+      <td colspan="4"><em>Poster session</em></td>
+    </tr>
+    <tr>
+      <td>5/10</td>
+      <td colspan="4"><em>Final project report due</em></td>
     </tr>
   </tbody>
 </table>

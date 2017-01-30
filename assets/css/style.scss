@@ -14,3 +14,14 @@
   text-align: center;
   margin-right: 20px;
 }
+
+.main-content {
+  @include large {
+    max-width: 72rem;
+  }
+}
+
+ul, ol {
+  margin: 0;
+  padding-left: 1rem;
+}
