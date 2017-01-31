@@ -112,7 +112,7 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     </tr>
     <tr>
       <td>2/27</td>
-      <td>Aaron Hertzman</td>
+      <td>Aaron Hertzmann</td>
       <td><em>TBA</em></td>
       <td><em>TBA</em></td>
       <td></td>
