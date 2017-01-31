@@ -85,7 +85,13 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     <tr>
       <td>2/6</td>
       <td>Rahul Sukthankar</td>
-      <td><em>TBA</em></td>
+      <td>
+        <ul>
+          <li><a href="https://arxiv.org/abs/1611.10012">Speed/accuracy trade-offs for modern convolutional object detectors</a>, by Jonathan Huang et al.</li>
+          <li><a href="https://arxiv.org/abs/1511.06085">Variable Rate Image Compression with Recurrent Neural Networks</a>, by George Toderici et al.</li>
+          <li><a href="https://arxiv.org/abs/1608.05148">Full Resolution Image Compression with Recurrent Neural Networks</a>, by George Toderici et al.</li>
+        </ul>
+      </td>
       <td><em>TBA</em></td>
       <td></td>
     </tr>
