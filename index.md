@@ -92,7 +92,11 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
           <li><a href="https://arxiv.org/abs/1608.05148">Full Resolution Image Compression with Recurrent Neural Networks</a>, by George Toderici et al.</li>
         </ul>
       </td>
-      <td><em>TBA</em></td>
+      <td>
+        <a href="speakers.html#rahul-sukthankar-recent-progress-on-cnns-for-object-detection-and-image-compression">
+          Recent Progress on CNNs for Object Detection and Image Compression
+        </a>
+      </td>
       <td></td>
     </tr>
     <tr>
