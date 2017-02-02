@@ -34,6 +34,10 @@ In this talk I will introduce solutions to some of these:
 * How to grow a single model for many tasks.
 * How to use a single end-to-end trainable architecture for question answering.
 
+### Slides
+* [Introductory material](slides/socher-intro.pdf)
+* [Main talk](slides/socher-talk.pdf)
+
 ### Bio
 Richard Socher is the Chief Scientist at Salesforce. Prior he was the CEO and founder of MetaMind, a startup which was recently acquired by Salesforce. MetaMind seeks to improve artificial intelligence and make it widely accessible. He obtained his PhD from Stanford working on deep learning with Chris Manning and Andrew Ng and won the best Stanford CS PhD thesis award. He is interested in developing new AI models that perform well across multiple different tasks in natural language processing and computer vision.
 
@@ -46,4 +50,3 @@ This talk will feature two pieces of current research from my group at Google.  
 
 ### Bio
 Rahul Sukthankar leads exploratory research efforts in the Machine Perception group at Google. He is also an adjunct research professor at CMU’s Robotics Institute and courtesy faculty at UCF. He was previously a senior principal researcher at Intel, a senior researcher at HP/Compaq and a research scientist at Just Research. He received his Ph.D. in Robotics from CMU in 1997 and his B.S.E. in Computer Science from Princeton in 1991.
-
