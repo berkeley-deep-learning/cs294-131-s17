@@ -104,8 +104,8 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
       <td>Brian Catanzaro</td>
       <td>
         <ul>
-          <li><a href="http://www.jmlr.org/proceedings/papers/v28/coates13.pdf">Deep learning with COTS HPC systems</a>, by Coates et al.</li>
-          <li><a href="https://arxiv.org/abs/1512.02595">Deep Speech 2: End-to-End Speech Recognition in English and Mandarin</a>, by Amodei et al.</li>
+          <li><a href="http://www.jmlr.org/proceedings/papers/v28/coates13.pdf">Deep learning with COTS HPC systems</a>, by Adam Coates et al.</li>
+          <li><a href="https://arxiv.org/abs/1512.02595">Deep Speech 2: End-to-End Speech Recognition in English and Mandarin</a>, by Dario Amodei et al.</li>
         </ul>
       </td>
       <td>
