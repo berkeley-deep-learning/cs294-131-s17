@@ -102,9 +102,18 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     <tr>
       <td>2/13</td>
       <td>Brian Catanzaro</td>
-      <td><em>TBA</em></td>
-      <td><em>TBA</em></td>
-      <td>Propject proposal</td>
+      <td>
+        <ul>
+          <li><a href="http://www.jmlr.org/proceedings/papers/v28/coates13.pdf">Deep learning with COTS HPC systems</a>, by Coates et al.</li>
+          <li><a href="https://arxiv.org/abs/1512.02595">Deep Speech 2: End-to-End Speech Recognition in English and Mandarin</a>, by Amodei et al.</li>
+        </ul>
+      </td>
+      <td>
+        <a href="speakers.html#bryan-catanzaro-scaling-deep-learning">
+          Scaling Deep Learning
+        </a>
+      </td>
+      <td>Project proposal</td>
     </tr>
     <tr>
       <td>2/20</td>

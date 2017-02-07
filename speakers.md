@@ -50,3 +50,11 @@ This talk will feature two pieces of current research from my group at Google.  
 
 ### Bio
 Rahul Sukthankar leads exploratory research efforts in the Machine Perception group at Google. He is also an adjunct research professor at CMU’s Robotics Institute and courtesy faculty at UCF. He was previously a senior principal researcher at Intel, a senior researcher at HP/Compaq and a research scientist at Just Research. He received his Ph.D. in Robotics from CMU in 1997 and his B.S.E. in Computer Science from Princeton in 1991.
+
+## Bryan Catanzaro: Scaling Deep Learning
+
+### Abstract
+Deep learning benefits from larger datasets in ways that many other AI approaches have not. This is one of the advantages deep learning has over other AI approaches, and it means that systems concerns have renewed importance for modern AI. In this class, we’ll be covering two papers that I was involved with that showed techniques for scaling deep learning training and deployment. We’ll be discussing the fundamental ways of parallelizing the training process, their limitations, and the future of systems for deep learning.
+
+### Bio
+Bryan Catanzaro leads a team solving problems in fields ranging from video games to chip design using deep learning. Prior to his current role at NVIDIA, he worked at Baidu with Adam Coates and Andrew Ng to create next generation systems for training and deploying end-to-end deep learning based speech recognition. Before that, he was a researcher at NVIDIA, where he wrote the research prototype and drove the creation of CUDNN, the low-level library now used by most AI researchers and deep learning frameworks to train neural networks. Bryan earned his PhD from Berkeley, where he built the Copperhead language and compiler, which allows Python programmers to use nested data parallel abstractions efficiently. He earned his MS and BS from Brigham Young University, where he worked on computer arithmetic for FPGAs.
