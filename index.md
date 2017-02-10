@@ -101,7 +101,7 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     </tr>
     <tr>
       <td>2/13</td>
-      <td>Brian Catanzaro</td>
+      <td>Bryan Catanzaro</td>
       <td>
         <ul>
           <li><a href="http://www.jmlr.org/proceedings/papers/v28/coates13.pdf">Deep learning with COTS HPC systems</a>, by Adam Coates et al.</li>
