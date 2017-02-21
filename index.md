@@ -122,8 +122,24 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     <tr>
       <td>2/27</td>
       <td>Aaron Hertzmann</td>
-      <td><em>TBA</em></td>
-      <td><em>TBA</em></td>
+      <td>
+        Main reading:
+        <ul>
+          <li><a href="http://www.mrl.nyu.edu/publications/image-analogies/">Image Analogies</a>, by Aaron Hertzmann et al.</li>
+          <li><a href="http://people.cs.umass.edu/~kalo/papers/LabelMeshes/index.html">Learning 3D Mesh Segmentation and Labeling</a>, by Evangelos Kalogerakis et al.</li>
+        </ul>
+
+        Background reading:
+        <ul>
+          <li><a href="http://dcgi.fel.cvut.cz/home/sykorad/stylit">StyLit</a> (image analogies)</li>
+          <li><a href="http://web.stanford.edu/~ericyi/project_page/part_annotation/index.html">Mesh region annotation</a></li>
+        </ul>
+      </td>
+      <td>
+        <a href="speakers.html#aaron-hertzmann-artistic-stylization-and-geometry-processing">
+          Artistic Stylization and Geometry Processing
+        </a>
+      </td>
       <td></td>
     </tr>
     <tr>

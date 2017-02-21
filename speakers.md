@@ -58,3 +58,11 @@ Deep learning benefits from larger datasets in ways that many other AI approache
 
 ### Bio
 Bryan Catanzaro leads a team solving problems in fields ranging from video games to chip design using deep learning. Prior to his current role at NVIDIA, he worked at Baidu with Adam Coates and Andrew Ng to create next generation systems for training and deploying end-to-end deep learning based speech recognition. Before that, he was a researcher at NVIDIA, where he wrote the research prototype and drove the creation of CUDNN, the low-level library now used by most AI researchers and deep learning frameworks to train neural networks. Bryan earned his PhD from Berkeley, where he built the Copperhead language and compiler, which allows Python programmers to use nested data parallel abstractions efficiently. He earned his MS and BS from Brigham Young University, where he worked on computer arithmetic for FPGAs.
+
+## Aaron Hertzmann: Artistic Stylization and Geometry Processing
+
+### Abstract
+I’ll give a survey of two research topics. First, I’ll describe artistic stylization (NPR) methods, including procedural methods, patch-based methods (including Image Analogies), and our recent work in neural stylization. Second, I’ll describe our work in machine learning for geometry processing from noisy artist-created models on the web.
+
+### Bio
+Aaron Hertzmann is a Principal Scientist at Adobe. He received a BA in Computer Science and Art/Art History from Rice University in 1996, and a PhD in Computer Science from New York University in 2001, respectively. He was a Professor at University of Toronto for ten years, and has also worked at Pixar Animation Studios, University of Washington, Microsoft Research, Mitsubishi Electric Research Lab, Interval Research Corporation and NEC Research. He is an associate editor for ACM Transactions on Graphics. His awards include the MIT TR100 (2004), a Sloan Foundation Fellowship (2006), a Microsoft New Faculty Fellowship (2006), the CACS/AIC Outstanding Young CS Researcher Award (2010), and the Steacie Prize for Natural Sciences (2010).
