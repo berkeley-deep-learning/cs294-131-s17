@@ -39,7 +39,7 @@
 **Location**: 306 Soda
 
 ## Office hours
-Richard: 3-4 PM on Tuesdays in 651 Soda.
+Richard: 3-4 PM on Tuesdays in 723 Soda.
 
 ## Mailing list and Piazza
 To get announcements about information about the class including guest speakers, and more generally, deep learning talks at Berkeley, please sign up for the [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-deep-learning) for future announcements.
@@ -145,8 +145,24 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     <tr>
       <td>3/6</td>
       <td>Kate Saenko</td>
-      <td><em>TBA</em></td>
-      <td><em>TBA</em></td>
+      <td>
+        Main reading:
+        <ul>
+          <li><a href="http://dl.acm.org/citation.cfm?id=2984066">Multimodal Video Description</a>, by Vasili Ramanishka et al.</li>
+          <li><a href="https://arxiv.org/abs/1612.07360">Top-down Visual Saliency Guided by Captions</a>, by Vasili Ramanishka et al.</li>
+        </ul>
+        
+        Background reading:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1412.4729">Translating Videos to Natural Language Using Deep Recurrent Neural Networks</a>, by Subhashini Venugopalan et al.</li>
+          <li><a href="https://arxiv.org/abs/1502.03044">Show, attend and tell: Neural image caption generation with visual attention</a>, by Kelvin Xu et al.</li>
+        </ul>
+      </td>
+      <td>
+        <a href="speakers.html#kate-saenko-attentive-captioning-without-attention-designing-and-understanding-lstm-based-captioning-models">
+          Attentive Captioning without Attention: Designing and understanding LSTM-based captioning models
+        </a>
+      </td>
       <td></td>
     </tr>
     <tr>
