@@ -48,6 +48,8 @@ He was awarded the Distinguished Application Paper Award at the International Co
 ### Abstract
 This talk will feature two pieces of current research from my group at Google.  I’ll give an overview of object detection and focus on some key ideas behind the winning G-RMI entry to the 2016 COCO challenge.  I will also give an introduction to neural-net based image and video compression (an application area that is still relatively unexplored) and present recent work on image compression using recurrent CNNs.
 
+### [Slides](slides/sukthankar-UC-Berkeley-InvitedTalk-2017-02.pdf)
+
 ### Bio
 Rahul Sukthankar leads exploratory research efforts in the Machine Perception group at Google. He is also an adjunct research professor at CMU’s Robotics Institute and courtesy faculty at UCF. He was previously a senior principal researcher at Intel, a senior researcher at HP/Compaq and a research scientist at Just Research. He received his Ph.D. in Robotics from CMU in 1997 and his B.S.E. in Computer Science from Princeton in 1991.
 
