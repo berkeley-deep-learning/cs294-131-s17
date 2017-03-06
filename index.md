@@ -185,7 +185,7 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     </tr>
     <tr>
       <td>4/3</td>
-      <td>Caroline Pantofaru</td>
+      <td>TBA</td>
       <td><em>TBA</em></td>
       <td><em>TBA</em></td>
       <td></td>
