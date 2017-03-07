@@ -168,7 +168,22 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     <tr>
       <td>3/13</td>
       <td>Diedrik Kingma</td>
-      <td><em>TBA</em></td>
+      <td>
+        Main reading:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1312.6114">Auto-Encoding Variational Bayes</a>, by Diedrik Kingma and Max Welling</li>
+          <li><a href="https://arxiv.org/abs/1606.04934">Improving Variational Inference with Inverse Autoregressive Flow</a>, by
+            Diedrik Kingma et al.</li>
+        </ul>
+        
+        Optional reading:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1605.08803">Density estimation using Real NVP</a>, by Laurent Dinh,
+            Jascha Sohl-Dickstein, and Samy Bengio</li>
+          <li><a href="https://arxiv.org/abs/1606.05328">Conditional Image Generation with PixelCNN Decoders</a>,
+            by Aaron van den Oord et al.</li>
+        </ul>
+      </td>
       <td><em>TBA</em></td>
       <td>1st project milestone</td>
     </tr>
