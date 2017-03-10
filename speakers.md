@@ -75,3 +75,10 @@ Aaron Hertzmann is a Principal Scientist at Adobe. He received a BA in Computer 
 
 ### Abstract
 In this talk, I will present models based on Long-Short Term Memory networks which produce natural language descriptions of in-the-wild images and video. The task has important applications in visual indexing, human-robot interaction, and interfaces for the blind. First, I will describe an LSTM encoder-decoder approach that combines visual and audio input to produce captions, achieving 3rd place in the ACM Multimedia 2016 Grand Challenge. Then, I will show how we can explain the model's captions by recovering spatial or spatiotemporal heatmaps. Unlike recent efforts that introduce explicit "attention" layers to selectively attend to certain inputs while generating each word, our approach recovers salient regions without the overhead of explicit attention layers. Aside from providing localization for words/phrases, our method can be used to analyze a variety of existing model architectures and improve their design.
+
+## Diedrik Kingma: Unsupervised Deep Learning with Variational Autoencoders: Recent Advances and Applications
+
+### Abstract
+Current deep learning mostly relies on supervised learning: given a vast amount of examples of humans performing tasks such as labeling images or translation, we can teach computers to mimic humans at these tasks. Since supervised methods only focus on modeling the task directly, however, these methods are not particularly efficient: they need much more examples than humans require for learning new tasks. Unsupervised learning lets us model not only the task, but their context, potentially greatly improving data efficiency. We discuss the framework of Variational Autoencoders (VAEs), a principled yet practical approach towards unsupervised deep learning.
+
+We discuss recent advances such as inverse autoregressive flows (IAF), PixelVAE, and combinations with Real NVP. We also discuss current scientific and practical applications of VAEs for semi-supervised learning and artificial creativity, such as image resynthesis and drug discovery.

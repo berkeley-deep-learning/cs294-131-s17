@@ -184,7 +184,11 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
             by Aaron van den Oord et al.</li>
         </ul>
       </td>
-      <td><em>TBA</em></td>
+      <td>
+        <a href="speakers.html#diedrik-kingma-unsupervised-deep-learning-with-variational-autoencoders-recent-advances-and-applications">
+          Unsupervised Deep Learning with Variational Autoencoders: Recent Advances and Applications
+        </a>
+      </td>
       <td>1st project milestone</td>
     </tr>
     <tr>
