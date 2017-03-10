@@ -82,3 +82,7 @@ In this talk, I will present models based on Long-Short Term Memory networks whi
 Current deep learning mostly relies on supervised learning: given a vast amount of examples of humans performing tasks such as labeling images or translation, we can teach computers to mimic humans at these tasks. Since supervised methods only focus on modeling the task directly, however, these methods are not particularly efficient: they need much more examples than humans require for learning new tasks. Unsupervised learning lets us model not only the task, but their context, potentially greatly improving data efficiency. We discuss the framework of Variational Autoencoders (VAEs), a principled yet practical approach towards unsupervised deep learning.
 
 We discuss recent advances such as inverse autoregressive flows (IAF), PixelVAE, and combinations with Real NVP. We also discuss current scientific and practical applications of VAEs for semi-supervised learning and artificial creativity, such as image resynthesis and drug discovery.
+
+### Bio
+Durk Kingma is a research scientist at OpenAI, working on the intersection of deep learning with Bayesian inference. His contributions include the Variational Autoencoder (VAE), a framework for principled unsupervised deep learning, and Adam, a method for stochastic gradient descent popular for optimizing deep neural networks. He previously worked with Yann LeCun, Max Welling and researchers at DeepMind.
+
