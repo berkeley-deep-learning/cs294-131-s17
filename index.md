@@ -194,7 +194,15 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     <tr>
       <td>3/20</td>
       <td>Jianxiong Xiao</td>
-      <td><em>TBA</em></td>
+      <td>
+        Main reading:
+        <ul>
+          <li><a href="http://deepdriving.cs.princeton.edu/">DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving</a>,
+            by Chenyi Chen et al.</li>
+          <li><a href="http://www.cs.princeton.edu/~aseff/mapnet/">Learning from Maps: Visual Common Sense for Autonomous Driving</a>,
+            by Ari Seff and Jianxiong Xiao</li>
+        </ul>
+      </td>
       <td><em>TBA</em></td>
       <td></td>
     </tr>
