@@ -87,6 +87,8 @@ Current deep learning mostly relies on supervised learning: given a vast amount 
 
 We discuss recent advances such as inverse autoregressive flows (IAF), PixelVAE, and combinations with Real NVP. We also discuss current scientific and practical applications of VAEs for semi-supervised learning and artificial creativity, such as image resynthesis and drug discovery.
 
+### [Slides](slides/VAE talk.compressed.pdf)
+
 ### Bio
 Durk Kingma is a research scientist at OpenAI, working on the intersection of deep learning with Bayesian inference. His contributions include the Variational Autoencoder (VAE), a framework for principled unsupervised deep learning, and Adam, a method for stochastic gradient descent popular for optimizing deep neural networks. He previously worked with Yann LeCun, Max Welling and researchers at DeepMind.
 
