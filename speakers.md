@@ -68,6 +68,8 @@ Bryan Catanzaro leads a team solving problems in fields ranging from video games
 ### Abstract
 I’ll give a survey of two research topics. First, I’ll describe artistic stylization (NPR) methods, including procedural methods, patch-based methods (including Image Analogies), and our recent work in neural stylization. Second, I’ll describe our work in machine learning for geometry processing from noisy artist-created models on the web.
 
+### [Slides](slides/NPR-2017.pdf)
+
 ### Bio
 Aaron Hertzmann is a Principal Scientist at Adobe. He received a BA in Computer Science and Art/Art History from Rice University in 1996, and a PhD in Computer Science from New York University in 2001, respectively. He was a Professor at University of Toronto for ten years, and has also worked at Pixar Animation Studios, University of Washington, Microsoft Research, Mitsubishi Electric Research Lab, Interval Research Corporation and NEC Research. He is an associate editor for ACM Transactions on Graphics. His awards include the MIT TR100 (2004), a Sloan Foundation Fellowship (2006), a Microsoft New Faculty Fellowship (2006), the CACS/AIC Outstanding Young CS Researcher Award (2010), and the Steacie Prize for Natural Sciences (2010).
 
@@ -75,6 +77,8 @@ Aaron Hertzmann is a Principal Scientist at Adobe. He received a BA in Computer 
 
 ### Abstract
 In this talk, I will present models based on Long-Short Term Memory networks which produce natural language descriptions of in-the-wild images and video. The task has important applications in visual indexing, human-robot interaction, and interfaces for the blind. First, I will describe an LSTM encoder-decoder approach that combines visual and audio input to produce captions, achieving 3rd place in the ACM Multimedia 2016 Grand Challenge. Then, I will show how we can explain the model's captions by recovering spatial or spatiotemporal heatmaps. Unlike recent efforts that introduce explicit "attention" layers to selectively attend to certain inputs while generating each word, our approach recovers salient regions without the overhead of explicit attention layers. Aside from providing localization for words/phrases, our method can be used to analyze a variety of existing model architectures and improve their design.
+
+### [Slides](slides/saenko-talk.pdf)
 
 ## Diedrik Kingma: Unsupervised Deep Learning with Variational Autoencoders: Recent Advances and Applications
 
