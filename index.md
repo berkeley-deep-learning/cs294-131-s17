@@ -203,7 +203,11 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
             by Ari Seff and Jianxiong Xiao</li>
         </ul>
       </td>
-      <td><em>TBA</em></td>
+      <td>
+        <a href="speakers.html#jianxiong-xiao-learning-affordance-for-autonomous-driving">
+          Learning Affordance for Autonomous Driving
+        </a>
+      </td>
       <td></td>
     </tr>
     <tr>
