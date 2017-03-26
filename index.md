@@ -216,9 +216,31 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     </tr>
     <tr>
       <td>4/3</td>
-      <td>TBA</td>
-      <td><em>TBA</em></td>
-      <td><em>TBA</em></td>
+      <td>Le Song</td>
+      <td>
+        Main reading:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1609.03675">
+            Deep Coevolutionary Network: Embedding User and Item Features for Recommendation</a>,
+            by Hanjun Dai et al.</li>
+          <li><a href="http://www.cc.gatech.edu/~lsong/papers/arxiv_rl_combopt.pdf">
+            Learning Combinatorial Optimization Algorithms over Graphs</a>,
+            by Hanjun Dai et al.</li>
+        </ul>
+        Background reading:
+        <ul>
+          <li><a href="http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_SongSGS10.pdf">
+            Hilbert Space Embeddings of Hidden Markov Models</a>,
+            by Le Song et al.</li>
+          <li><a href="https://arxiv.org/abs/1603.05629">Discriminative Embeddings of Latent Variable Models for Structured Data</a>,
+            by Hanjun Dai et al.</li>
+        </ul>
+      </td>
+      <td>
+        <a href="speakers.html#le-song-embedding-as-a-tool-for-algorithm-design">
+          Embedding as a Tool for Algorithm Design
+        </a>
+      </td>
       <td></td>
     </tr>
     <tr>
