@@ -276,7 +276,7 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     </tr>
     <tr>
       <td>4/17</td>
-      <td><em>TBA</em></td>
+      <td>Sanjeev Arora</td>
       <td><em>TBA</em></td>
       <td><em>TBA</em></td>
       <td></td>
