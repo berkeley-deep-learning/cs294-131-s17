@@ -267,7 +267,11 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
           </li>
         </ul>
       </td>
-      <td>Attention, Seq-to-Seq, and Language Structure</td>
+      <td>
+        <a href="speakers.html#alexander-rush-attention-seq-to-seq-and-language-structure">
+          Attention, Seq-to-Seq, and Language Structure
+        </a>
+      </td>
       <td>2nd project milestone</td>
     </tr>
     <tr>
