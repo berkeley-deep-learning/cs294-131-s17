@@ -246,8 +246,28 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     <tr>
       <td>4/10</td>
       <td>Alexander Rush</td>
-      <td><em>TBA</em></td>
-      <td><em>TBA</em></td>
+      <td>
+        Main reading:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1702.00887">
+            Structured Attention Networks</a>,
+            by Yoon Kim, Carl Denton, Luong Hoang, and Alexander M. Rush
+          </li>
+        </ul>
+        
+        Background reading:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1502.05698">
+            Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks</a>,
+            by Jason Weston et al.
+          </li>
+          <li><a href="https://arxiv.org/abs/1409.0473">
+            Neural Machine Translation by Jointly Learning to Align and Translate
+            by Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio
+          </li>
+        </ul>
+      </td>
+      <td>Attention, Seq-to-Seq, and Language Structure</td>
       <td>2nd project milestone</td>
     </tr>
     <tr>
