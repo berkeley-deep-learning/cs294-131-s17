@@ -257,12 +257,15 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
         
         Background reading:
         <ul>
+          <li><a href="">
+            Sequence-to-Sequence Learning as Beam-Search Optimization</a>,
+            by Sam Wiseman and Alexander M. Rush
           <li><a href="https://arxiv.org/abs/1502.05698">
             Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks</a>,
             by Jason Weston et al.
           </li>
           <li><a href="https://arxiv.org/abs/1409.0473">
-            Neural Machine Translation by Jointly Learning to Align and Translate</a>
+            Neural Machine Translation by Jointly Learning to Align and Translate</a>,
             by Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio
           </li>
         </ul>
