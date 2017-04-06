@@ -257,9 +257,10 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
         
         Background reading:
         <ul>
-          <li><a href="">
+          <li><a href="https://arxiv.org/abs/1606.02960">
             Sequence-to-Sequence Learning as Beam-Search Optimization</a>,
             by Sam Wiseman and Alexander M. Rush
+          </li>
           <li><a href="https://arxiv.org/abs/1502.05698">
             Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks</a>,
             by Jason Weston et al.
