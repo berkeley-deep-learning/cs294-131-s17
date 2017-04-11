@@ -119,3 +119,10 @@ Recent deep learning systems for NLP and related fields have relied heavily on t
 
 ### Bio
 Alexander "Sasha" Rush is an Assistant Professor at Harvard School of Engineering and Applied Sciences where he runs the HarvardNLP group. Alexander received his PhD from MIT (2014) under the guidance of Michael Collins and worked as a postdoc at Facebook Artificial Intelligence Research (FAIR) under Yann LeCun. He is interested in machine learning and deep learning methods for large-scale natural language processing and understanding, including applications in neural machine translation (http://opennmt.net), abstractive summarization, image-to-text prediction, and long-form generation. His past work introduced novel combinatorial methods for structured prediction with applications to syntactic parsing and machine translation. His work has received three best paper/honorable mention awards at major NLP conferences. His group web page is http://nlp.seas.harvard.edu/, and he tweets at http://twitter.com/harvardnlp.
+
+## Sanjeev Arora: Generalization and Equilibrium in Generative Adversarial Nets (GANs)
+
+### Abstract
+This paper makes progress on several open theoretical issues related to Generative Adversarial Networks. A definition is provided for what it means for the training to generalize, and it is shown that generalization is not guaranteed for the popular distances between distributions such as Jensen-Shannon or Wasserstein. We introduce a new metric called neural net distance for which generalization does occur. We also show that an approximate pure equilibrium in the 2-player game exists for a natural training objective (Wasserstein). Showing such a result has been an open problem (for any training objective).
+
+Finally, the above theoretical ideas lead us to propose a new training protocol, MIX+GAN, which can be combined with any existing method. We present experiments showing that it stabilizes and improves some existing methods.

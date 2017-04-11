@@ -281,8 +281,28 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     <tr>
       <td>4/17</td>
       <td>Sanjeev Arora</td>
-      <td><em>TBA</em></td>
-      <td><em>TBA</em></td>
+      <td>
+        Main reading:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1703.00573">
+            Generalization and Equilibrium in Generative Adversarial Nets (GANs)</a>,
+            by Sanjeev Arora et al.
+          </li>
+        </ul>
+        
+        Background reading:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1701.00160">
+            NIPS 2016 Tutorial: Generative Adversarial Networks</a>,
+            by Ian Goodfellow
+          </li>
+        </ul>
+      </td>
+      <td>
+        <a href="speakers.html#sanjeev-arora-generalization-and-equilibrium-in-generative-adversarial-nets-gans">
+          Generalization and Equilibrium in Generative Adversarial Nets (GANs)
+        </a>
+      </td>
       <td></td>
     </tr>
     <tr>
