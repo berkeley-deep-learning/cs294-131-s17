@@ -126,3 +126,11 @@ Alexander "Sasha" Rush is an Assistant Professor at Harvard School of Engineerin
 This paper makes progress on several open theoretical issues related to Generative Adversarial Networks. A definition is provided for what it means for the training to generalize, and it is shown that generalization is not guaranteed for the popular distances between distributions such as Jensen-Shannon or Wasserstein. We introduce a new metric called neural net distance for which generalization does occur. We also show that an approximate pure equilibrium in the 2-player game exists for a natural training objective (Wasserstein). Showing such a result has been an open problem (for any training objective).
 
 Finally, the above theoretical ideas lead us to propose a new training protocol, MIX+GAN, which can be combined with any existing method. We present experiments showing that it stabilizes and improves some existing methods.
+
+## Bryan Russell: ActionVLAD: Learning spatio-temporal aggregation for action classification
+
+### Abstract
+In this talk I will describe ActionVLAD, a new video representation for action classification that aggregates local convolutional features across the entire spatio-temporal extent of a video.  The resulting architecture is end-to-end trainable for whole-video classification. We show that our representation outperforms a two-stream base architecture by a large margin (13% relative) as well as outperforms other baselines with comparable base architectures on the public HMDB51, UCF101, and Charades video classification benchmarks.
+
+### Bio
+Bryan Russell is a Research Scientist at Adobe Research in San Francisco.  He received his Ph.D. from MIT in the Computer Science and Artificial Intelligence Laboratory under the supervision of Professors Bill Freeman and Antonio Torralba. He was a post-doctoral fellow in the INRIA Willow team at the Département d'Informatique of Ecole Normale Supérieure in Paris, France. He was a Research Scientist with Intel Labs as part of the Intel Science and Technology Center for Visual Computing (ISTC-VC) and was Affiliate Faculty at the University of Washington.

@@ -308,8 +308,42 @@ For students enrolled in the class, please join the [Piazza](https://piazza.com/
     <tr>
       <td>4/24</td>
       <td>Bryan Russell</td>
-      <td><em>TBA</em></td>
-      <td><em>TBA</em></td>
+      <td>
+        Main reading:
+        <ul>
+          <li><a href="https://arxiv.org/abs/1704.02895">
+            ActionVLAD: Learning spatio-temporal aggregation for action classification</a>,
+            by Rohit Girdhar et al.
+            <a href="https://rohitgirdhar.github.io/ActionVLAD/">
+              Project information
+            </a>
+          </li>
+        </ul>
+        
+        Background reading:
+        <ul>
+          <li><a href="http://wanglimin.github.io/papers/WangXWQLTV_ECCV16.pdf">
+            Temporal Segment Networks: Towards Good Practices for Deep Action Recognition</a>,
+            by Limin Wang et al.
+            <a href="https://github.com/yjxiong/temporal-segment-networks">
+              Code
+            </a>
+          </li>
+          
+          <li><a href="http://www.di.ens.fr/~josef/publications/Arandjelovic16.pdf">
+            NetVLAD: CNN architecture for weakly supervised place recognition</a>,
+            by Relja Arandjelović et al.
+            <a href="http://www.di.ens.fr/willow/research/netvlad/">
+              Project information
+            </a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <a href="speakers.html#bryan-russell-actionvlad-learning-spatio-temporal-aggregation-for-action-classification">
+          ActionVLAD: Learning spatio-temporal aggregation for action classification
+        </a>
+      </td>
       <td></td>
     </tr>
     <tr>
