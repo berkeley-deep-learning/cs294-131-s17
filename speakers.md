@@ -129,6 +129,8 @@ This paper makes progress on several open theoretical issues related to Generati
 
 Finally, the above theoretical ideas lead us to propose a new training protocol, MIX+GAN, which can be combined with any existing method. We present experiments showing that it stabilizes and improves some existing methods.
 
+### [Slides](slides/arora-talk.pptx)
+
 ## Bryan Russell: ActionVLAD: Learning spatio-temporal aggregation for action classification
 
 ### Abstract
